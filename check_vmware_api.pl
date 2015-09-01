@@ -35,6 +35,9 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
+# Modified By Archie Gunasekara
+# 01.08.2015
+# Modified to work with Monitoring::Plugin instead of Nagios::Plugin
 
 package CheckVMwareAPI;
 use strict;
