@@ -22,7 +22,7 @@ yum install openssl-devel
 yum install libuuid-devel perl-YAML perl-Devel-CheckLib gcc perl-CPAN libxml2-devel.x86_64
 ```
 
-Also install the following Perl modules using CPAN and CPANM
+Also install the following Perl modules using CPAN and CPANM.
 
 ```bash
 cpan -i JSON::PP
@@ -38,7 +38,7 @@ cpanm XML::LibXML::Common XML::LibXML Class::MethodMaker
 
 ##Installing vSphere Perl SDK for vSphere 6.0
 
-Download vSphere Perl SDK for vSphere 6.0 from VMware downloads
+Download vSphere Perl SDK for vSphere 6.0 from VMware downloads - https://developercenter.vmware.com/web/sdk/60/vsphere-perl
 
 Run the installation script in downloaded SDK to install as below,
 
