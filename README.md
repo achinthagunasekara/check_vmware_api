@@ -64,7 +64,7 @@ To get up time,
 ./check_vmware_api.pl -H hypervisor1 -u ESXi_USER -p ESXi_PASSWORD -l uptime
 ```
 
-Please run the script as below to get a full list of available options
+Please run the script as below to get a full list of available options,
 
 ```bash
 ./check_vmware_api.pl
