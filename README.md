@@ -50,7 +50,7 @@ Run the installation script in downloaded SDK to install as below,
 
 Now you should be able to run the script and get status from the ESXi server.
 
-EG:
+E.G.
 
 To get CPU usage,
 
